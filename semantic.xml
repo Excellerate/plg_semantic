@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content" method="upgrade">
+    <name>plg_content_semantic</name>
+    <author>Joomla! Project</author>
+    <creationDate>September 2015</creationDate>
+    <copyright></copyright>
+    <license>MIT</license>
+    <authorEmail>hello@codechap.com</authorEmail>
+    <authorUrl>codechap.com</authorUrl>
+    <version>3.0.0</version>
+    <description>Semantic UI Template Parser</description>
+    <files>
+        <filename plugin="semantic">semantic.php</filename>
+    </files>
+</extension>
