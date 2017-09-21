@@ -4,12 +4,10 @@
   "description": "Excellerate semantic ui plugin",
   "require": {
     "composer/installers": "*"
-  }
-  {
-    "extra": {
-        "installer-paths": {
-            "plugins/content/{$name}/": ["type:joomla-plugin"]
-        }
+  },
+  "extra": {
+    "installer-paths": {
+      "plugins/content/{$name}/": ["type:joomla-plugin"]
     }
   }
 }
