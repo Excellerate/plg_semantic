@@ -7,7 +7,7 @@
   },
   "extra": {
     "installer-paths": {
-      "plugins/content/{$name}/": ["type:joomla-plugin"]
+      "plugins/content/semantic/": ["type:joomla-plugin"]
     }
   }
 }
