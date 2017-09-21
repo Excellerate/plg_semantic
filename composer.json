@@ -5,4 +5,11 @@
   "require": {
     "composer/installers": "*"
   }
+  {
+    "extra": {
+        "installer-paths": {
+            "plugins/content/{$name}/": ["type:joomla-plugin"]
+        }
+    }
+  }
 }
