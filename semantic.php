@@ -3,7 +3,7 @@
     /**
      * Uses lex to parse content
      */
-    include("lex/Parser.php");
+    include_once("lex/Parser.php");
 
 
     /**

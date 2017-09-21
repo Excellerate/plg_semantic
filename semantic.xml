@@ -9,7 +9,7 @@
     <authorUrl>codechap.com</authorUrl>
     <version>3.0.0</version>
     <description>Semantic UI Template Parser</description>
-    <files>
-        <filename plugin="semantic">semantic.php</filename>
+    <files folder="plugins/content/semantic">
+      <file plugin="semantic">semantic.php</file>
     </files>
 </extension>
