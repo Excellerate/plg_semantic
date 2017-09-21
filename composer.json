@@ -1,0 +1,8 @@
+{
+  "name": "excellerate/semantic",
+  "type": "joomla-plugin",
+  "description": "Excellerate semantic ui plugin",
+  "require": {
+    "composer/installers": "*"
+  }
+}
