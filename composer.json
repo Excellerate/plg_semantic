@@ -1,8 +1,13 @@
 {
   "name": "excellerate/plg_semantic",
   "type": "joomla-plugon",
-  "description": "Excellerate subscribe module",
+  "description": "Semantic module",
   "require": {
     "composer/installers": "*"
-  }
+  },
+  "extra": {
+        "installer-paths": {
+            "/plugins/content/{$name}": ["vendor/package"]
+        }
+    }
 }
