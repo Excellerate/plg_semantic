@@ -1,6 +1,5 @@
 {
   "name": "excellerate/plg_semantic",
-  "type": "joomla-plugin",
   "description": "Semantic module",
   "require": {
     "composer/installers": "*"
