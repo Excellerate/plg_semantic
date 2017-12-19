@@ -1,12 +1,13 @@
 {
   "name": "excellerate/plg_semantic",
+  "type": "joomla-plugin",
   "description": "Semantic module",
   "require": {
     "composer/installers": "*"
   },
   "extra": {
         "installer-paths": {
-            "/plugins/content/semantic": ["vendor/package"]
+            "/plugins/content/$name": ["vendor/package"]
         }
     }
 }
