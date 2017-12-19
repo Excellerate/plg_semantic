@@ -1,0 +1,8 @@
+{
+  "name": "excellerate/plg_semantic",
+  "type": "joomla-plugon",
+  "description": "Excellerate subscribe module",
+  "require": {
+    "composer/installers": "*"
+  }
+}
